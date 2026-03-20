@@ -9,7 +9,7 @@ Una colección de recetas colombianas caseras construida con HTML puro.
 - Bandeja paisa
 - Changua
 - Moñona
-- Arepa con queso con huevos pericos
+- Arepa con huevos pericos ¡y mucho queso!
 
 ## Tecnologías usadas
 - HTML5
