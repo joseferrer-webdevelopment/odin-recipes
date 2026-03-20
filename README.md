@@ -6,6 +6,10 @@ Una colección de recetas colombianas caseras construida con HTML puro.
 
 ## Recetas incluidas
 - Ajiaco Santafereño
+- Bandeja paisa
+- Changua
+- Moñona
+- Arepa con queso con huevos pericos
 
 ## Tecnologías usadas
 - HTML5
